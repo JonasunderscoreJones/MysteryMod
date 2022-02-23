@@ -3,7 +3,7 @@ The *Mystery Mods* are a group of mods that can be added and removed individuall
 These mods will all be **Fabric** compatible mods, there are no plans for Forge implementation.
 ### The following mods are part of the *Mystery Mods*:
 | Name | Description | Status |
-| --- | --- | --- |
+| --- | --- | --- | --- |
 | Mystery Mod | Base mod of all *Mystery Mods*; required for all other *Mystery Mods* | early stage of developpment/programming & collection of ideas |
 | Mystery RPG | new RPG related items such as artifacts, new weapons, armor, enchanmtments, etc. | early stage of developpment/programing & collection of ideas
 | Mystery Dungeons | new dungeons and structures, stronghold overhall with entrance to new dimensions (if *Mystery Dungeons Mod* installed) | early stage of idea collection |
@@ -13,9 +13,8 @@ This table is subject to change and will be updated when changes occur
 
 ### Mystery Mod
 The Mystery Mod is the base mod of the *Mystery Mods*. It is the heart of the Mystery Mod project and and connects all Mystery Mods together. It includes ingame tutorials to all the different mods as well as a structured config screen to all the settings of the different mods. It aims to be the most lightweight mod out of all of the *Mystery Mods* by not having any ingame affects such as new items, mobs or else. Serverside it will only hold the mods together and generate the config files.
-<details><summary>Mystery Mod brainstorming ideas - Click to expand</summary>
-<p>
-#### Mystery Mod ideas and plan
+
+#### Ideas and plan
 - Config and help button for all mystery mods on main menu
 - Custom config menu on button click with options:
 	- Change skin
@@ -26,13 +25,10 @@ The Mystery Mod is the base mod of the *Mystery Mods*. It is the heart of the My
 	- Mystery Dungeons config
 	- Mystery Dimensions config
 
-</p>
-</details>
 ### Mystery RPG Mod
 The Mystery RPG Mod aims to generate an RPG vibe by adding new items such as artifacts, altars, weapons, armor pieces, enchantments, etc. The trick here is to balance the item's rareness and power to make some easy to get items not completely overpowered. To achieve that, we use the oldest trick in the book: endless testing.
-<details><summary>Mystery RPG Mod brainstorming ideas - Click to expand</summary>
-<p>
-#### Mystery RPG Mod ideas and plan
+
+#### Ideas and plan
 - New Items:
 	- 5 artifacts (four obtainable in survival):
 		- mystery:generic_artifact
@@ -90,25 +86,18 @@ The Mystery RPG Mod aims to generate an RPG vibe by adding new items such as art
 		- mystery:???_artifact
 		- mystery:???_artifact
 
-
-</p>
-</details>
 ### Mystery Dungeons Mod
 The Mystery Dungeons Mod aims to properly integrate all new items of the other mods into the game by adding loot chests, portal rooms to a number of different dimensions, and overhauling strongholds. It's second purpose is to make the world more explorer friendly as the vanilla game lacks adventures etc. (1.19 kinda changes that though).
-<details><summary>Mystery Dungeons Mod brainstorming ideas - Click to expand</summary>
-<p>
-#### Mystery Dungeons Mod ideas and plan
+
+#### Ideas and plan
 - There are no real ideas yet other than loot chests, Stronghold overhaul and connection to Mystery Dimensions Mod trough in structures generated portals
-</p>
-</details>
+
 ### Mystery Dimensions Mod
 The Mystery Dimensions Mod adds a variety of new Dimensions but there are no real ideas in terms of implementation and dimension types yet.
-<details><summary>Mystery Dimensions Mod brainstorming ideas - Click to expand</summary>
-<p>
-#### Mystery Dimensions Mod ideas and plan
+
+#### Ideas and plan
 -no real ideas yet :(
-</p>
-</details>
+
 ### Mystery Modpack
 The Mystery Modpack is a modpack of all the *Mystery Mods* 
 # Credits
