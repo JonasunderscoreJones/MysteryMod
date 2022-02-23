@@ -3,12 +3,13 @@ The *Mystery Mods* are a group of mods that can be added and removed individuall
 These mods will all be **Fabric** compatible mods, there are no plans for Forge implementation.
 ### The following mods are part of the *Mystery Mods*:
 | Name | Description | Status |
-| --- | --- | --- | --- |
+| --- | --- | --- |
 | Mystery Mod | Base mod of all *Mystery Mods*; required for all other *Mystery Mods* | early stage of developpment/programming & collection of ideas |
 | Mystery RPG | new RPG related items such as artifacts, new weapons, armor, enchanmtments, etc. | early stage of developpment/programing & collection of ideas
 | Mystery Dungeons | new dungeons and structures, stronghold overhall with entrance to new dimensions (if *Mystery Dungeons Mod* installed) | early stage of idea collection |
 | Mystery Dimensions | new Dimensions accesible through stronghold (if *Mystery Dungeons Mod* installed) or through custom portal (single structure or portalbe similar to nether portal???) | early stage of idea collection |
 | Mystery Modpack | Modpack, containing all *Mystery Mods* | basically done since no mod has a proper build yet :) |
+
 This table is subject to change and will be updated when changes occur
 
 ### Mystery Mod
