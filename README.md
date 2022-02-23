@@ -101,5 +101,5 @@ The Mystery Dimensions Mod adds a variety of new Dimensions but there are no rea
 ### Mystery Modpack
 The Mystery Modpack is a modpack of all the *Mystery Mods* 
 # Credits
-These mods have been/ will be coded by me, Jonas_Jones but the project is being realised together with @NatanDerBratan
+These mods have been/ will be coded by me, Jonas_Jones but the project is being realised together with [@NatanDerBratan](https://www.github.com/NatanDerBratan)
 Credts to him go for all the textures of the mods and at least 50% of the ideas.
