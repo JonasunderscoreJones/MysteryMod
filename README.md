@@ -30,17 +30,6 @@ The Mystery Mod is the base mod of the *Mystery Mods*. It is the heart of the My
 	- Mystery RPG Mod config
 	- Mystery Dungeons config
 	- Mystery Dimensions config
-### Mystery Dungeons Mod
-The Mystery Dungeons Mod aims to properly integrate all new items of the other mods into the game by adding loot chests, portal rooms to a number of different dimensions, and overhauling strongholds. It's second purpose is to make the world more explorer friendly as the vanilla game lacks adventures etc. (1.19 kinda changes that though).
-
-#### Ideas and plan
-- There are no real ideas yet other than loot chests, Stronghold overhaul and connection to Mystery Dimensions Mod trough in structures generated portals
-
-### Mystery Dimensions Mod
-The Mystery Dimensions Mod adds a variety of new Dimensions but there are no real ideas in terms of implementation and dimension types yet.
-
-#### Ideas and plan
--no real ideas yet :(
 
 ### Mystery Modpack
 The Mystery Modpack is a modpack of all the *Mystery Mods* 
