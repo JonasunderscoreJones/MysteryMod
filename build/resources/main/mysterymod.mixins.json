@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "me.jonasjones.mysterymod.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+  ],
+  "client": [
+    "TitleScreenButtonMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

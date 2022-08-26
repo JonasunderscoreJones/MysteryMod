@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "me/jonasjones/mysterymod/mixin/TitleScreenButtonMixin": {
+      "initWidgetsNormal": "Lnet/minecraft/class_442;method_2249(II)V"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "me/jonasjones/mysterymod/mixin/TitleScreenButtonMixin": {
+        "initWidgetsNormal": "Lnet/minecraft/class_442;method_2249(II)V"
+      }
+    }
+  }
+}

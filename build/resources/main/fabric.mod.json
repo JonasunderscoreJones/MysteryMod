@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "mysterymod",
+  "version": "0.0.1-alpha-build01",
+
+  "name": "Mystery Mod",
+  "description": "uwu",
+  "authors": [
+    "Jonas_Jones"
+  ],
+  "contact": {
+    "homepage": "https://jonasjones.me/MysteryMod/",
+    "sources": "https://github.com/J-onasJones/MysteryMod/",
+    "issues": "https://github.com/J-onasJones/MysteryMod/issues/"
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/mysterymod/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "me.jonasjones.mysterymod.MysteryMod"
+    ]
+  },
+  "mixins": [
+    "mysterymod.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.14.6",
+    "fabric": "*",
+    "minecraft": "~1.19",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
