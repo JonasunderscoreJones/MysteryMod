@@ -31,8 +31,6 @@ The Mystery Mod is the base mod of the *Mystery Mods*. It is the heart of the My
 	- Mystery Dungeons config
 	- Mystery Dimensions config
 
-### Mystery Modpack
-The Mystery Modpack is a modpack of all the *Mystery Mods* 
 # Credits
 These mods have been/ will be coded by me, Jonas_Jones but the project is being realised together with [@NatanDerBratan](https://www.github.com/NatanDerBratan)
 Credts to him go for all the textures of the mods and at least 50% of the ideas.
