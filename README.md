@@ -2,9 +2,9 @@
 The *Mystery Mods* are a mod-family that can be added and removed individually while still keeping the base mod, the **Mystery Mod**.
 These mods are all **Fabric/Quilt** compatible mods, there are no plans for a Forge port.
 
-<img src="https://jonasjones.me/uploads/mod-badges/fabric-api.png" width="250px">
-<img src="https://jonasjones.me/uploads/mod-badges/forge-support.png" width="250px">
-<img src="https://jonasjones.me/uploads/mod-badges/available-modrinth.png" width="250px">
+<a align="center"><img src="http://cdn.jonasjones.me/uploads/mod-badges/fabric-api.png" width="250px">
+<img src="http://cdn.jonasjones.me/uploads/mod-badges/support-forge.png" width="250px">
+<img src="http://cdn.jonasjones.me/uploads/mod-badges/available-modrinth.png" width="250px"></a>
 
 ### The following mods are part of the *MysteryMods* mod-family:
 | Name               | Description                                                                                                                          | Status                                                              |
